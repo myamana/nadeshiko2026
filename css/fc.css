@@ -82,6 +82,10 @@ td.nowrap {
     transform: rotate(180deg);
 }
 
+.forCustomer table {
+    table-layout: fixed;
+}
+
 div {
     white-space: nowrap;
 }
