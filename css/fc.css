@@ -78,7 +78,7 @@ td.nowrap {
     white-space: nowrap;
 }
 
-tr.forCustomer {
+.forCustomer {
     transform: rotate(180deg);
 }
 
